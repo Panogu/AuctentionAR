@@ -18,6 +18,8 @@ To use the server, you need to have NodeJS with NPM installed, then if you open 
 The client is a bit more complex as you need to build it yourself (see information to the MRTK 2 above). In Unity you should change the IP address where the HL2 should connect to (i.e., the address of your local machine where the server is running) - there the gaze information will be uploaded.
 ![AuctentionAR Diagram](https://github.com/Panogu/AuctentionAR/blob/Main/Images/Unity_settings.png?raw=true)
 
+The image recognition software can be found [here](https://github.com/Interactions-HSG/Datasets-And-Weights-For-Yolo). 
+
 ### Overview of the system
 
 ![AuctentionAR Diagram](https://github.com/Panogu/AuctentionAR/blob/Main/Images/AuctentionAR_diagram.png?raw=true)
